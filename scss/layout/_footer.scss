@@ -1,0 +1,32 @@
+.page-footer {
+    text-align: center;
+    padding: 30px;
+
+
+    img {
+        width: 100px;
+
+    }
+
+    .footer-nav {
+        .menu {
+            background-color: white;
+            list-style: none;
+    
+            .menu-item {
+                display: inline-block;
+                margin: 0 14px;
+                font-size: initial;
+                text-transform: uppercase;
+    
+                a {
+                    color: $secondary-color;
+                    font-weight: 700;
+                    text-decoration: none;
+                }
+            }
+        }
+
+    }
+}
+
